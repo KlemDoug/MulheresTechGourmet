@@ -1,0 +1,33 @@
+Análise Descritiva de Fonte de Dados Externa para um Tratamento de Big Data:
+---------------------------------------------------------------------------
+
+Etapa 1: Aplique os conceitos de estatística trabalhados durante toda a unidade curricular no arquivo orientado pelo instrutor:
+
+
+Grupo 1: (ROXO) NOMES FONTE: https://www.ispdados.rj.gov.br/Arquivos/BaseDPEvolucaoMensalCisp.csv
+
+Grupo 2: (LILÁS) NOMES FONTE: https://www.ispdados.rj.gov.br/Arquivos/ArmasApreendidasEvolucaoCisp.csv
+
+Grupo 3: (ÍNDIGO) NOMES FONTE: https://www.ispdados.rj.gov.br/Arquivos/UppEvolucaoMensalDeTitulos.csv
+
+---
+
+Etapa 2: carregamento de volume massivo de dados (BIG DATA) - dados do Bolsa Família (https://portaldatransparencia.gov.br/download-de-dados/novo-bolsa-familia); Relacione as análises estatísticas descritivas para corroborar ou negar informações obtidas através de pesquisa bibliográfica.
+
+
+Grupo 1: (ROXO) NOMES PERÍODO: ABRIL a JUNHO de 2023
+
+Grupo 2: (LILÁS) NOMES PERÍODO: JULHO a SETEMBRO de 2023
+
+Grupo 3: (ÍNDIGO) NOMES PERÍODO: OUTUBRO a DEZEMBRO de 2023
+
+---
+
+Etapa 3: montagem visual das análises no Power BI:
+
+
+Utilizem os arquivos anteriores como fonte de dados para produzir duas páginas de relatório no Power BI: uma para o ISP-RJ; outra, para o Bolsa Família.
+
+Prazo de entrega: até as 14h do dia 22/01/2025.
+
+----------------------------------------------
