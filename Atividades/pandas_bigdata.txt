@@ -4,12 +4,14 @@ Análise Descritiva de Fonte de Dados Externa para um Tratamento de Big Data:
 Etapa 1: Aplique os conceitos de estatística trabalhados durante toda a unidade curricular no arquivo orientado pelo instrutor:
 
 
-Grupo 1: (ROXO) NOMES FONTE: https://www.ispdados.rj.gov.br/Arquivos/BaseDPEvolucaoMensalCisp.csv
+Grupo 1: (ROXO) FONTE: https://www.ispdados.rj.gov.br/Arquivos/BaseDPEvolucaoMensalCisp.csv
+NOMES: Ana Carolina, Chein, Carolyne, Anahi, Luane, Gisele.
 
 Grupo 2: (LILÁS) NOMES FONTE: https://www.ispdados.rj.gov.br/Arquivos/ArmasApreendidasEvolucaoCisp.csv
+NOMES: Claudia, Maria Elisabete, Raquel, Bruna, Anna Carolina, Kelly.
 
 Grupo 3: (ÍNDIGO) NOMES FONTE: https://www.ispdados.rj.gov.br/Arquivos/UppEvolucaoMensalDeTitulos.csv
-
+NOMES: Riva, Lúcia, Lillen, Aline, Beatriz, Walquiria, Nathalia, Leandra.
 ---
 
 Etapa 2: carregamento de volume massivo de dados (BIG DATA) - dados do Bolsa Família (https://portaldatransparencia.gov.br/download-de-dados/novo-bolsa-familia); Relacione as análises estatísticas descritivas para corroborar ou negar informações obtidas através de pesquisa bibliográfica.
